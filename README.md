@@ -30,3 +30,5 @@ Upon receiving a message, the bot extracts the current price from the website, a
 ## Script-Link
 [Script Link](https://github.com/shine-jayakumar/Rubber-Price-Telegram-Bot/blob/master/bot.py)
 
+## LICENSE
+[LICENSE](https://github.com/shine-jayakumar/Rubber-Price-Telegram-Bot/blob/master/LICENSE)
