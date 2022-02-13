@@ -1,8 +1,13 @@
-## Rubber-Price-Telegram-Bot
+# Rubber-Price-Telegram-Bot
 
 ![MIT License](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)
 
-Rubber Price Bot is a Telegram bot that waits for the user's cue and replies with the latest rubber prices. Rubber prices are extracted from: http://rubberboard.org.in/public using ``` requests ``` and ``` BeautifulSoup ```
+### Get the latest rubber price for Kochi and Kottayam in your Telegram
+Rubber Price Bot is a Telegram bot written in python. 
+
+It gets you the latest rubber prices for Kochi and Kottayam. 
+
+Rubber prices are extracted from: http://rubberboard.org.in/public using ``` requests ``` and ``` BeautifulSoup ```
 
 ![Bot Image](https://github.com/shine-jayakumar/Rubber-Price-Telegram-Bot/blob/master/bot_screenshot.PNG)
 
